@@ -44,4 +44,4 @@ The system successfully generates coherent paragraphs based on different user pr
 6. Conclusion
 This project demonstrates the successful implementation of a Generative Text Model using a pre-trained GPT architecture. By leveraging an existing powerful language model, the system efficiently generates high-quality text without the need for extensive training or large datasets. The project highlights the importance of transformer models in modern NLP applications and can be further extended by fine-tuning the model for domain-specific text generation or integrating it into web and GUI applications.
 
-*OUTPUT*: 
+*OUTPUT*: <img width="1456" height="91" alt="Image" src="https://github.com/user-attachments/assets/d271ec58-d01d-44a1-ba34-19bdc05d0aaf" />
